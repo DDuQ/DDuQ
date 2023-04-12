@@ -8,7 +8,7 @@
 
 <p align="center"><em>“Just keep swimming.”</em><br>- Dory from Finding Nemo</p>
 
-## About me
+## 😅 About me
 
 I'm a software developer based in Colombia. I've always been interested in technology and coding, and I'm excited to be able to pursue my passion as a career.
 
@@ -16,10 +16,11 @@ I've had the opportunity to work on a variety of projects, as a backend develope
 
 When I'm not coding, I enjoy swimming, appreciating the beauty of capybaras, and playing video games. I'm always looking for new challenges and ways to improve my skills, and I'm excited to be part of the coding community.
 
-My coding philosophy is to write clean, maintainable code that solves real problems. I believe in the importance of good design, testing, and documentation, and I strive to follow best practices in everything I do.
+My coding philosophy is to write clean, maintainable code that solves real problems. I believe in the importance of good design, testing, and documentation. I strive to follow best practices in everything I do.
 
 My goal is to continue growing as a developer and make contributions that have a positive impact on the community.
-## Skills
+
+## 👀 Skills
 
 **Programming Languages:**
 
@@ -55,5 +56,3 @@ My goal is to continue growing as a developer and make contributions that have a
   <img src="https://github-readme-stats.vercel.app/api?username=dduq&theme=tokyonight&show_icons=true" />
  </a>
 </p>
-
-## Reach 

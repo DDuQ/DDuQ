@@ -1,12 +1,8 @@
 # Hi there, I'm Esteban 👋
 
----
-
-<a href="#"><img align="center" src="/img/capy.jpg" width="100%" height="50%" /></a>
+<a href="#"><img align="center" src="/img/capy.jpg" width="100%" height="450px" /></a>
 
 <p align="center"><em>“Just keep swimming.”</em><br>- Dory from Finding Nemo</p>
-
----
 
 ## About me
 

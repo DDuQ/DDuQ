@@ -1,4 +1,8 @@
-# Hi there, I'm Esteban 👋
+<h1 align="center"> Hi there, I'm Esteban ✌️ </h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dduq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 <a href="#"><img align="center" src="/img/capy.jpg" width="100%" height="450px" /></a>
 
@@ -15,7 +19,7 @@ When I'm not coding, I enjoy swimming, appreciating the beauty of capybaras, and
 My coding philosophy is to write clean, maintainable code that solves real problems. I believe in the importance of good design, testing, and documentation, and I strive to follow best practices in everything I do.
 
 My goal is to continue growing as a developer and make contributions that have a positive impact on the community.
-## Skills~
+## Skills
 
 **Programming Languages:**
 
@@ -51,3 +55,5 @@ My goal is to continue growing as a developer and make contributions that have a
   <img src="https://github-readme-stats.vercel.app/api?username=dduq&theme=tokyonight&show_icons=true" />
  </a>
 </p>
+
+## Reach 

@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dduq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
 ## About me 👋
 
 I'm a software developer based in Colombia. I've always been interested in technology and coding, and I'm excited to be able to pursue my passion as a career.

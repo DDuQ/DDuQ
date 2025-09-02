@@ -3,12 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dduq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-<a href="#"><img align="center" src="/img/capy.jpg" width="100%" height="450px" /></a>
-
-<p align="center"><em>“Just keep swimming.”</em><br>- Dory from Finding Nemo</p>
-
-## 😅 About me
+## About me 👋
 
 I'm a software developer based in Colombia. I've always been interested in technology and coding, and I'm excited to be able to pursue my passion as a career.
 
@@ -20,7 +15,7 @@ My coding philosophy is to write clean, maintainable code that solves real probl
 
 My goal is to continue growing as a developer and make contributions that have a positive impact on the community.
 
-## 👀 Skills
+## Skills
 
 **Programming Languages:**
 

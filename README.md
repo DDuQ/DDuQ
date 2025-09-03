@@ -42,7 +42,7 @@ My goal is to continue growing as a developer and make contributions that have a
 ## 📈 Stats
 
 <p align="center">
-  <a href="https://github.com/asperezm">
+  <a href="https://github.com/dduq">
     <img alt="dduq's github language stats "
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dduq&theme=tokyonight&langs_count=10&layout=compact" />
   </a>
